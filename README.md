@@ -52,7 +52,7 @@ Your new balance is: 300
 Insufficient funds
 ```
 
-## ⚠️ Known Issues
+##  Known Issues
 
 `functions.js` currently has two bugs that will stop it from running top-to-bottom in Node or a browser:
 
